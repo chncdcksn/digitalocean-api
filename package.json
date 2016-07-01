@@ -1,0 +1,9 @@
+{
+  "name": "digitalocean-api",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "superagent": "^2.0.0"
+  }
+}
